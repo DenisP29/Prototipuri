@@ -11,3 +11,4 @@ Markdown
 -Maket 5: https://www.figma.com/design/X5i9JxG0DSktDwBa1EtxGL/Exerci%C8%9Biu-Anima%C8%9Bie-obiect?node-id=0-1&t=axOh8tgY2EjHwpiW-1
 
 -Maket 6: https://www.figma.com/design/hCswo7vIxUe0SswScu5Q9k/Laborator-UI-Libraries?t=axOh8tgY2EjHwpiW-1
+![Uploading image.png…]()
